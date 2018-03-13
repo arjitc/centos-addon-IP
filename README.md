@@ -3,6 +3,8 @@ Addon IP config writer for CentOS
 
 How to use,
 
+    wget https://raw.githubusercontent.com/arjitc/centos-addon-IP/master/add_ip.sh
+    chmod a+x add_ip.sh
     sh add_ip.sh INTERFACE IP_ADDRESS GATEWAY NETMASK
   
 Example,
